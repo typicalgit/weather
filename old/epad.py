@@ -1,72 +1,72 @@
 #!/bin/python3
 import curses
 
-def draw_border(window):
-    # Get the dimensions of the window
-    height, width = window.getmaxyx()
-
-    # Draw the top and bottom borders
-    window.hline(0, 0, curses.ACS_HLINE, width, curses.color_pair(1))
-    window.hline(height-1, 0, curses.ACS_HLINE, width, curses.color_pair(1))
-
-    # Draw the left and right borders
-    window.vline(0, 0, curses.ACS_VLINE, height, curses.color_pair(1))
-    window.vline(0, width-1, curses.ACS_VLINE, height, curses.color_pair(1))
-
-    # Draw the corners
-    window.addch(0, 0, curses.ACS_ULCORNER, curses.color_pair(1))
-    window.addch(0, width-1, curses.ACS_URCORNER, curses.color_pair(1))
-    window.addch(height-1, 0, curses.ACS_LLCORNER, curses.color_pair(1))
-    window.addch(height-1, width-1, curses.ACS_LRCORNER, curses.color_pair(1))
-
-    # Draw the inner border
-    window.border(curses.ACS_VLINE, curses.ACS_VLINE, curses.ACS_HLINE, curses.ACS_HLINE,
-                  curses.ACS_ULCORNER, curses.ACS_URCORNER, curses.ACS_LLCORNER, curses.ACS_LRCORNER,
-                  curses.color_pair(1))
 def main(stdscr):
-  # Clear the screen
-  stdscr.clear()
+    key = 0
+    # Clear the screen
+    stdscr.clear()
 
-  # Create two full-screen windows
-  win1 = curses.newwin(curses.LINES, curses.COLS // 2, 0, 0)
-  draw_border(win1)
-  win1.border()
-  win2 = curses.newwin(curses.LINES, curses.COLS // 2, 0, curses.COLS // 2)
+    # Get the screen dimensions
+    height, width = stdscr.getmaxyx()
 
-  # Create two horizontal pads in each window
-  pad1 = curses.newpad(curses.LINES, curses.COLS // 2)
-  pad2 = curses.newpad(curses.LINES, curses.COLS // 2)
-  pad1.addstr(0, 0, "This is pad 1")
-  pad2.addstr(0, 0, "This is pad 2")
+    # Create the two pads
+    pad1 = curses.newpad(height // 3, width)
+    pad2 = curses.newpad(height // 3, width)
 
-  # Add the pads to the windows
-  win1.refresh()
-  win2.refresh()
-  pad1.refresh(0, 0, 0, 0, curses.LINES - 1, curses.COLS // 2 - 1)
-  pad2.refresh(0, 0, 0, 0, curses.LINES - 1, curses.COLS // 2 - 1)
+    # Draw a box around the first pad
+    pad1.box()
 
-  # Create a navigation window at the bottom
-  navwin = curses.newwin(1, curses.COLS, curses.LINES - 1, 0)
-  navwin.addstr(0, 0, "Press 'q' to quit, '1' to go to window 1, '2' to go to window 2")
+    # Draw some text in the first pad
+    pad1.addstr(1, 1, "This is pad 1" + str(width))
 
-  # Loop until the user quits
-  while True:
-    # Get user input
-    c = stdscr.getch()
+    # Draw a box around the second pad
+    pad2.box()
 
-    # Handle user input
-    if c == ord('q'):
-      break
-    elif c == ord('1'):
-      win1.refresh()
-      pad1.refresh(0, 0, 0, 0, curses.LINES - 1, curses.COLS // 2 - 1)
-    elif c == ord('2'):
-      win2.refresh()
-      pad2.refresh(0, 0, 0, 0, curses.LINES - 1, curses.COLS // 2 - 1)
+    # Draw some text in the second pad
+    pad2.addstr(1, 1, "This is pad 2")
 
-  # Clean up
-  curses.endwin()
+    # Create the menu bar
+    menu_bar = curses.newwin(1, width, height - (height // 3), 0)
 
-if __name__ == '__main__':
-  curses.wrapper(main)
+    # Draw the menu bar
+    menu_bar.addstr(0, 0, "Press 1 to switch to pad 1, 2 to switch to pad 2")
+
+    # Refresh the screen
+    stdscr.refresh()
+    menu_bar.refresh()
+
+    # Set the initial active pad to pad 1
+    active_pad = pad1
+
+    # Loop forever
+    while key != ord('q'):
+        # Get the user's input
+        key = stdscr.getch()
+
+        # If the user pressed 1, switch to pad 1
+        if key == ord('1'):
+            active_pad = pad1
+            menu_bar.clear()
+            menu_bar.addstr(0, 0, "Press h to move left, l to move right in pad 1")
+            active_pad.box()
+        # If the user pressed 2, switch to pad 2
+        elif key == ord('2'):
+            active_pad = pad2
+            menu_bar.clear()
+            menu_bar.addstr(0, 0, "Press h to move left, l to move right in pad 2")
+            active_pad.box()
+        # If the user pressed h, move left in the active pad
+        elif key == ord('h'):
+            active_pad.scroll(0, -1)
+        # If the user pressed l, move right in the active pad
+        elif key == ord('l'):
+#            active_pad.move(0,1)
+            active_pad.scroll(0,1)
+
+        # Refresh the screen
+        stdscr.refresh()
+        menu_bar.refresh()
+        active_pad.refresh(0,0,0,0,height,width)
+# Start the app
+curses.wrapper(main)
 
