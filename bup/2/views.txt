@@ -1,0 +1,17 @@
+THREE HOUR
+  Time1  Time2  ...
+  Temp
+  Rain  
+  Wind Speed
+
+DAILY
+  Day1      Day2 ...
+  Max Temp
+  Min Temp
+  Rain
+  Wind Speed
+  Max UV
+    
+WEEK
+
+

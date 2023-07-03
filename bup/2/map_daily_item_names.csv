@@ -1,0 +1,16 @@
+timestamp,timestamp
+Wind Direction,Wind Direction
+Wind Gust Noon,Wind Gust
+Screen Relative Humidity Noon,Humidity
+Precipitation Probability Day,Rain
+Wind Speed,Wind
+Visibility,Visibility
+Day Maximum Temperature,Temp
+Feels Like Day Maximum Temperature,Feels
+Weather Type,Weather Type
+Max UV Index,Max UV
+Wind Gust Midnight, Wind Gust
+Screen Relative Humidity Midnight, Humidity
+Precipitation Probability Night, Rain
+Night Minimum Temperature, Min Temp
+Feels Like Night Minimum Temperature, Feels Min

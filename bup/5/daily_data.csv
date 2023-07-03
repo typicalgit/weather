@@ -1,0 +1,106 @@
+day_nr,item_name,value,unit,pretty_item_name,pretty_val,day_name,dom,month
+0,timestamp,2023-06-15 00:00:00,Day,timestamp,Thu 15th Jun,Thu,15th,Jun
+0,Wind Direction,E,compass,Wind Direction,E,Thu,15th,Jun
+0,Wind Gust Noon,11,mph,Wind Gust,11 mph,Thu,15th,Jun
+0,Screen Relative Humidity Noon,42,%,Humidity,42 %,Thu,15th,Jun
+0,Precipitation Probability Day,0,%,Rain,0 %,Thu,15th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Thu,15th,Jun
+0,Visibility,GO,,Visibility,GO ,Thu,15th,Jun
+0,Day Maximum Temperature,25,C,Temp,25°C,Thu,15th,Jun
+0,Feels Like Day Maximum Temperature,24,C,Feels,24°C,Thu,15th,Jun
+0,Weather Type,1,,Weather Type,1 ,Thu,15th,Jun
+0,Max UV Index,8,,Max UV,8 ,Thu,15th,Jun
+0,timestamp,2023-06-15 00:00:00,Night,timestamp,Thu 15th Jun,Thu,15th,Jun
+0,Wind Direction,ENE,compass,Wind Direction,ENE,Thu,15th,Jun
+0,Wind Gust Midnight,18,mph, Wind Gust,18 mph,Thu,15th,Jun
+0,Screen Relative Humidity Midnight,65,%, Humidity,65 %,Thu,15th,Jun
+0,Precipitation Probability Night,0,%, Rain,0 %,Thu,15th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Thu,15th,Jun
+0,Visibility,VG,,Visibility,VG ,Thu,15th,Jun
+0,Night Minimum Temperature,14,C, Min Temp,14°C,Thu,15th,Jun
+0,Feels Like Night Minimum Temperature,14,C, Feels Min,14°C,Thu,15th,Jun
+0,Weather Type,0,,Weather Type,0 ,Thu,15th,Jun
+0,timestamp,2023-06-16 00:00:00,Day,timestamp,Fri 16th Jun,Fri,16th,Jun
+0,Wind Direction,SE,compass,Wind Direction,SE,Fri,16th,Jun
+0,Wind Gust Noon,13,mph,Wind Gust,13 mph,Fri,16th,Jun
+0,Screen Relative Humidity Noon,38,%,Humidity,38 %,Fri,16th,Jun
+0,Precipitation Probability Day,4,%,Rain,4 %,Fri,16th,Jun
+0,Wind Speed,9,mph,Wind,9 mph,Fri,16th,Jun
+0,Visibility,VG,,Visibility,VG ,Fri,16th,Jun
+0,Day Maximum Temperature,26,C,Temp,26°C,Fri,16th,Jun
+0,Feels Like Day Maximum Temperature,24,C,Feels,24°C,Fri,16th,Jun
+0,Weather Type,1,,Weather Type,1 ,Fri,16th,Jun
+0,Max UV Index,7,,Max UV,7 ,Fri,16th,Jun
+0,timestamp,2023-06-16 00:00:00,Night,timestamp,Fri 16th Jun,Fri,16th,Jun
+0,Wind Direction,E,compass,Wind Direction,E,Fri,16th,Jun
+0,Wind Gust Midnight,13,mph, Wind Gust,13 mph,Fri,16th,Jun
+0,Screen Relative Humidity Midnight,55,%, Humidity,55 %,Fri,16th,Jun
+0,Precipitation Probability Night,4,%, Rain,4 %,Fri,16th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Fri,16th,Jun
+0,Visibility,VG,,Visibility,VG ,Fri,16th,Jun
+0,Night Minimum Temperature,15,C, Min Temp,15°C,Fri,16th,Jun
+0,Feels Like Night Minimum Temperature,15,C, Feels Min,15°C,Fri,16th,Jun
+0,Weather Type,7,,Weather Type,7 ,Fri,16th,Jun
+0,timestamp,2023-06-17 00:00:00,Day,timestamp,Sat 17th Jun,Sat,17th,Jun
+0,Wind Direction,SE,compass,Wind Direction,SE,Sat,17th,Jun
+0,Wind Gust Noon,16,mph,Wind Gust,16 mph,Sat,17th,Jun
+0,Screen Relative Humidity Noon,46,%,Humidity,46 %,Sat,17th,Jun
+0,Precipitation Probability Day,16,%,Rain,16 %,Sat,17th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Sat,17th,Jun
+0,Visibility,VG,,Visibility,VG ,Sat,17th,Jun
+0,Day Maximum Temperature,24,C,Temp,24°C,Sat,17th,Jun
+0,Feels Like Day Maximum Temperature,22,C,Feels,22°C,Sat,17th,Jun
+0,Weather Type,7,,Weather Type,7 ,Sat,17th,Jun
+0,Max UV Index,7,,Max UV,7 ,Sat,17th,Jun
+0,timestamp,2023-06-17 00:00:00,Night,timestamp,Sat 17th Jun,Sat,17th,Jun
+0,Wind Direction,SE,compass,Wind Direction,SE,Sat,17th,Jun
+0,Wind Gust Midnight,11,mph, Wind Gust,11 mph,Sat,17th,Jun
+0,Screen Relative Humidity Midnight,74,%, Humidity,74 %,Sat,17th,Jun
+0,Precipitation Probability Night,13,%, Rain,13 %,Sat,17th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Sat,17th,Jun
+0,Visibility,VG,,Visibility,VG ,Sat,17th,Jun
+0,Night Minimum Temperature,16,C, Min Temp,16°C,Sat,17th,Jun
+0,Feels Like Night Minimum Temperature,15,C, Feels Min,15°C,Sat,17th,Jun
+0,Weather Type,7,,Weather Type,7 ,Sat,17th,Jun
+0,timestamp,2023-06-18 00:00:00,Day,timestamp,Sun 18th Jun,Sun,18th,Jun
+0,Wind Direction,SE,compass,Wind Direction,SE,Sun,18th,Jun
+0,Wind Gust Noon,16,mph,Wind Gust,16 mph,Sun,18th,Jun
+0,Screen Relative Humidity Noon,69,%,Humidity,69 %,Sun,18th,Jun
+0,Precipitation Probability Day,39,%,Rain,39 %,Sun,18th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Sun,18th,Jun
+0,Visibility,VG,,Visibility,VG ,Sun,18th,Jun
+0,Day Maximum Temperature,22,C,Temp,22°C,Sun,18th,Jun
+0,Feels Like Day Maximum Temperature,20,C,Feels,20°C,Sun,18th,Jun
+0,Weather Type,7,,Weather Type,7 ,Sun,18th,Jun
+0,Max UV Index,5,,Max UV,5 ,Sun,18th,Jun
+0,timestamp,2023-06-18 00:00:00,Night,timestamp,Sun 18th Jun,Sun,18th,Jun
+0,Wind Direction,ESE,compass,Wind Direction,ESE,Sun,18th,Jun
+0,Wind Gust Midnight,9,mph, Wind Gust,9 mph,Sun,18th,Jun
+0,Screen Relative Humidity Midnight,93,%, Humidity,93 %,Sun,18th,Jun
+0,Precipitation Probability Night,21,%, Rain,21 %,Sun,18th,Jun
+0,Wind Speed,4,mph,Wind,4 mph,Sun,18th,Jun
+0,Visibility,GO,,Visibility,GO ,Sun,18th,Jun
+0,Night Minimum Temperature,14,C, Min Temp,14°C,Sun,18th,Jun
+0,Feels Like Night Minimum Temperature,14,C, Feels Min,14°C,Sun,18th,Jun
+0,Weather Type,7,,Weather Type,7 ,Sun,18th,Jun
+0,timestamp,2023-06-19 00:00:00,Day,timestamp,Mon 19th Jun,Mon,19th,Jun
+0,Wind Direction,SSW,compass,Wind Direction,SSW,Mon,19th,Jun
+0,Wind Gust Noon,16,mph,Wind Gust,16 mph,Mon,19th,Jun
+0,Screen Relative Humidity Noon,63,%,Humidity,63 %,Mon,19th,Jun
+0,Precipitation Probability Day,42,%,Rain,42 %,Mon,19th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Mon,19th,Jun
+0,Visibility,VG,,Visibility,VG ,Mon,19th,Jun
+0,Day Maximum Temperature,23,C,Temp,23°C,Mon,19th,Jun
+0,Feels Like Day Maximum Temperature,22,C,Feels,22°C,Mon,19th,Jun
+0,Weather Type,10,,Weather Type,10 ,Mon,19th,Jun
+0,Max UV Index,7,,Max UV,7 ,Mon,19th,Jun
+0,timestamp,2023-06-19 00:00:00,Night,timestamp,Mon 19th Jun,Mon,19th,Jun
+0,Wind Direction,WSW,compass,Wind Direction,WSW,Mon,19th,Jun
+0,Wind Gust Midnight,9,mph, Wind Gust,9 mph,Mon,19th,Jun
+0,Screen Relative Humidity Midnight,84,%, Humidity,84 %,Mon,19th,Jun
+0,Precipitation Probability Night,8,%, Rain,8 %,Mon,19th,Jun
+0,Wind Speed,4,mph,Wind,4 mph,Mon,19th,Jun
+0,Visibility,VG,,Visibility,VG ,Mon,19th,Jun
+0,Night Minimum Temperature,14,C, Min Temp,14°C,Mon,19th,Jun
+0,Feels Like Night Minimum Temperature,14,C, Feels Min,14°C,Mon,19th,Jun
+0,Weather Type,0,,Weather Type,0 ,Mon,19th,Jun

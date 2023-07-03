@@ -1,0 +1,397 @@
+day_nr,item_name,value,unit,pretty_item_name,pretty_val,day_name,dom,month,timestamp
+0,timestamp,2023-06-20 12:00:00,,timestamp ,Tue 20th Jun,Tue,20th,Jun,2023-06-20 12:00:00
+0,Wind Direction,NNW,compass, Wind Direction,NNW,Tue,20th,Jun,2023-06-20 12:00:00
+0,Feels Like Temperature,15,C, Feels ,15°C,Tue,20th,Jun,2023-06-20 12:00:00
+0,Wind Gust,11,mph,Wind Gust,11 mph,Tue,20th,Jun,2023-06-20 12:00:00
+0,Screen Relative Humidity,95,%,Humidity,95 %,Tue,20th,Jun,2023-06-20 12:00:00
+0,Precipitation Probability,22,%,Rain ,22 %,Tue,20th,Jun,2023-06-20 12:00:00
+0,Wind Speed,11,mph,Wind Speed ,11 mph,Tue,20th,Jun,2023-06-20 12:00:00
+0,Temperature,17,C, Temp,17°C,Tue,20th,Jun,2023-06-20 12:00:00
+0,Visibility,GO,,Visibility ,GO ,Tue,20th,Jun,2023-06-20 12:00:00
+0,Weather Type,8,,Weather Type ,8 ,Tue,20th,Jun,2023-06-20 12:00:00
+0,Max UV Index,5,,Max UV,5 ,Tue,20th,Jun,2023-06-20 12:00:00
+0,timestamp,2023-06-20 15:00:00,,timestamp ,Tue 20th Jun,Tue,20th,Jun,2023-06-20 15:00:00
+0,Wind Direction,NNE,compass, Wind Direction,NNE,Tue,20th,Jun,2023-06-20 15:00:00
+0,Feels Like Temperature,19,C, Feels ,19°C,Tue,20th,Jun,2023-06-20 15:00:00
+0,Wind Gust,7,mph,Wind Gust,7 mph,Tue,20th,Jun,2023-06-20 15:00:00
+0,Screen Relative Humidity,83,%,Humidity,83 %,Tue,20th,Jun,2023-06-20 15:00:00
+0,Precipitation Probability,7,%,Rain ,7 %,Tue,20th,Jun,2023-06-20 15:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Tue,20th,Jun,2023-06-20 15:00:00
+0,Temperature,19,C, Temp,19°C,Tue,20th,Jun,2023-06-20 15:00:00
+0,Visibility,GO,,Visibility ,GO ,Tue,20th,Jun,2023-06-20 15:00:00
+0,Weather Type,7,,Weather Type ,7 ,Tue,20th,Jun,2023-06-20 15:00:00
+0,Max UV Index,4,,Max UV,4 ,Tue,20th,Jun,2023-06-20 15:00:00
+0,timestamp,2023-06-20 18:00:00,,timestamp ,Tue 20th Jun,Tue,20th,Jun,2023-06-20 18:00:00
+0,Wind Direction,W,compass, Wind Direction,W,Tue,20th,Jun,2023-06-20 18:00:00
+0,Feels Like Temperature,20,C, Feels ,20°C,Tue,20th,Jun,2023-06-20 18:00:00
+0,Wind Gust,7,mph,Wind Gust,7 mph,Tue,20th,Jun,2023-06-20 18:00:00
+0,Screen Relative Humidity,70,%,Humidity,70 %,Tue,20th,Jun,2023-06-20 18:00:00
+0,Precipitation Probability,31,%,Rain ,31 %,Tue,20th,Jun,2023-06-20 18:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Tue,20th,Jun,2023-06-20 18:00:00
+0,Temperature,20,C, Temp,20°C,Tue,20th,Jun,2023-06-20 18:00:00
+0,Visibility,VG,,Visibility ,VG ,Tue,20th,Jun,2023-06-20 18:00:00
+0,Weather Type,7,,Weather Type ,7 ,Tue,20th,Jun,2023-06-20 18:00:00
+0,Max UV Index,1,,Max UV,1 ,Tue,20th,Jun,2023-06-20 18:00:00
+0,timestamp,2023-06-20 21:00:00,,timestamp ,Tue 20th Jun,Tue,20th,Jun,2023-06-20 21:00:00
+0,Wind Direction,W,compass, Wind Direction,W,Tue,20th,Jun,2023-06-20 21:00:00
+0,Feels Like Temperature,17,C, Feels ,17°C,Tue,20th,Jun,2023-06-20 21:00:00
+0,Wind Gust,11,mph,Wind Gust,11 mph,Tue,20th,Jun,2023-06-20 21:00:00
+0,Screen Relative Humidity,81,%,Humidity,81 %,Tue,20th,Jun,2023-06-20 21:00:00
+0,Precipitation Probability,11,%,Rain ,11 %,Tue,20th,Jun,2023-06-20 21:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Tue,20th,Jun,2023-06-20 21:00:00
+0,Temperature,17,C, Temp,17°C,Tue,20th,Jun,2023-06-20 21:00:00
+0,Visibility,VG,,Visibility ,VG ,Tue,20th,Jun,2023-06-20 21:00:00
+0,Weather Type,7,,Weather Type ,7 ,Tue,20th,Jun,2023-06-20 21:00:00
+0,Max UV Index,0,,Max UV,0 ,Tue,20th,Jun,2023-06-20 21:00:00
+0,timestamp,2023-06-21 00:00:00,,timestamp ,Wed 21st Jun,Wed,21st,Jun,2023-06-21 00:00:00
+0,Wind Direction,W,compass, Wind Direction,W,Wed,21st,Jun,2023-06-21 00:00:00
+0,Feels Like Temperature,15,C, Feels ,15°C,Wed,21st,Jun,2023-06-21 00:00:00
+0,Wind Gust,13,mph,Wind Gust,13 mph,Wed,21st,Jun,2023-06-21 00:00:00
+0,Screen Relative Humidity,85,%,Humidity,85 %,Wed,21st,Jun,2023-06-21 00:00:00
+0,Precipitation Probability,46,%,Rain ,46 %,Wed,21st,Jun,2023-06-21 00:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Wed,21st,Jun,2023-06-21 00:00:00
+0,Temperature,15,C, Temp,15°C,Wed,21st,Jun,2023-06-21 00:00:00
+0,Visibility,VG,,Visibility ,VG ,Wed,21st,Jun,2023-06-21 00:00:00
+0,Weather Type,7,,Weather Type ,7 ,Wed,21st,Jun,2023-06-21 00:00:00
+0,Max UV Index,0,,Max UV,0 ,Wed,21st,Jun,2023-06-21 00:00:00
+0,timestamp,2023-06-21 03:00:00,,timestamp ,Wed 21st Jun,Wed,21st,Jun,2023-06-21 03:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Wed,21st,Jun,2023-06-21 03:00:00
+0,Feels Like Temperature,13,C, Feels ,13°C,Wed,21st,Jun,2023-06-21 03:00:00
+0,Wind Gust,11,mph,Wind Gust,11 mph,Wed,21st,Jun,2023-06-21 03:00:00
+0,Screen Relative Humidity,90,%,Humidity,90 %,Wed,21st,Jun,2023-06-21 03:00:00
+0,Precipitation Probability,2,%,Rain ,2 %,Wed,21st,Jun,2023-06-21 03:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Wed,21st,Jun,2023-06-21 03:00:00
+0,Temperature,14,C, Temp,14°C,Wed,21st,Jun,2023-06-21 03:00:00
+0,Visibility,VG,,Visibility ,VG ,Wed,21st,Jun,2023-06-21 03:00:00
+0,Weather Type,0,,Weather Type ,0 ,Wed,21st,Jun,2023-06-21 03:00:00
+0,Max UV Index,0,,Max UV,0 ,Wed,21st,Jun,2023-06-21 03:00:00
+0,timestamp,2023-06-21 06:00:00,,timestamp ,Wed 21st Jun,Wed,21st,Jun,2023-06-21 06:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Wed,21st,Jun,2023-06-21 06:00:00
+0,Feels Like Temperature,14,C, Feels ,14°C,Wed,21st,Jun,2023-06-21 06:00:00
+0,Wind Gust,13,mph,Wind Gust,13 mph,Wed,21st,Jun,2023-06-21 06:00:00
+0,Screen Relative Humidity,86,%,Humidity,86 %,Wed,21st,Jun,2023-06-21 06:00:00
+0,Precipitation Probability,0,%,Rain ,0 %,Wed,21st,Jun,2023-06-21 06:00:00
+0,Wind Speed,7,mph,Wind Speed ,7 mph,Wed,21st,Jun,2023-06-21 06:00:00
+0,Temperature,15,C, Temp,15°C,Wed,21st,Jun,2023-06-21 06:00:00
+0,Visibility,VG,,Visibility ,VG ,Wed,21st,Jun,2023-06-21 06:00:00
+0,Weather Type,1,,Weather Type ,1 ,Wed,21st,Jun,2023-06-21 06:00:00
+0,Max UV Index,1,,Max UV,1 ,Wed,21st,Jun,2023-06-21 06:00:00
+0,timestamp,2023-06-21 09:00:00,,timestamp ,Wed 21st Jun,Wed,21st,Jun,2023-06-21 09:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Wed,21st,Jun,2023-06-21 09:00:00
+0,Feels Like Temperature,17,C, Feels ,17°C,Wed,21st,Jun,2023-06-21 09:00:00
+0,Wind Gust,16,mph,Wind Gust,16 mph,Wed,21st,Jun,2023-06-21 09:00:00
+0,Screen Relative Humidity,68,%,Humidity,68 %,Wed,21st,Jun,2023-06-21 09:00:00
+0,Precipitation Probability,10,%,Rain ,10 %,Wed,21st,Jun,2023-06-21 09:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Wed,21st,Jun,2023-06-21 09:00:00
+0,Temperature,19,C, Temp,19°C,Wed,21st,Jun,2023-06-21 09:00:00
+0,Visibility,VG,,Visibility ,VG ,Wed,21st,Jun,2023-06-21 09:00:00
+0,Weather Type,7,,Weather Type ,7 ,Wed,21st,Jun,2023-06-21 09:00:00
+0,Max UV Index,5,,Max UV,5 ,Wed,21st,Jun,2023-06-21 09:00:00
+0,timestamp,2023-06-21 12:00:00,,timestamp ,Wed 21st Jun,Wed,21st,Jun,2023-06-21 12:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Wed,21st,Jun,2023-06-21 12:00:00
+0,Feels Like Temperature,19,C, Feels ,19°C,Wed,21st,Jun,2023-06-21 12:00:00
+0,Wind Gust,18,mph,Wind Gust,18 mph,Wed,21st,Jun,2023-06-21 12:00:00
+0,Screen Relative Humidity,55,%,Humidity,55 %,Wed,21st,Jun,2023-06-21 12:00:00
+0,Precipitation Probability,8,%,Rain ,8 %,Wed,21st,Jun,2023-06-21 12:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Wed,21st,Jun,2023-06-21 12:00:00
+0,Temperature,21,C, Temp,21°C,Wed,21st,Jun,2023-06-21 12:00:00
+0,Visibility,VG,,Visibility ,VG ,Wed,21st,Jun,2023-06-21 12:00:00
+0,Weather Type,7,,Weather Type ,7 ,Wed,21st,Jun,2023-06-21 12:00:00
+0,Max UV Index,7,,Max UV,7 ,Wed,21st,Jun,2023-06-21 12:00:00
+0,timestamp,2023-06-21 15:00:00,,timestamp ,Wed 21st Jun,Wed,21st,Jun,2023-06-21 15:00:00
+0,Wind Direction,WSW,compass, Wind Direction,WSW,Wed,21st,Jun,2023-06-21 15:00:00
+0,Feels Like Temperature,20,C, Feels ,20°C,Wed,21st,Jun,2023-06-21 15:00:00
+0,Wind Gust,16,mph,Wind Gust,16 mph,Wed,21st,Jun,2023-06-21 15:00:00
+0,Screen Relative Humidity,54,%,Humidity,54 %,Wed,21st,Jun,2023-06-21 15:00:00
+0,Precipitation Probability,28,%,Rain ,28 %,Wed,21st,Jun,2023-06-21 15:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Wed,21st,Jun,2023-06-21 15:00:00
+0,Temperature,22,C, Temp,22°C,Wed,21st,Jun,2023-06-21 15:00:00
+0,Visibility,VG,,Visibility ,VG ,Wed,21st,Jun,2023-06-21 15:00:00
+0,Weather Type,7,,Weather Type ,7 ,Wed,21st,Jun,2023-06-21 15:00:00
+0,Max UV Index,4,,Max UV,4 ,Wed,21st,Jun,2023-06-21 15:00:00
+0,timestamp,2023-06-21 18:00:00,,timestamp ,Wed 21st Jun,Wed,21st,Jun,2023-06-21 18:00:00
+0,Wind Direction,W,compass, Wind Direction,W,Wed,21st,Jun,2023-06-21 18:00:00
+0,Feels Like Temperature,21,C, Feels ,21°C,Wed,21st,Jun,2023-06-21 18:00:00
+0,Wind Gust,11,mph,Wind Gust,11 mph,Wed,21st,Jun,2023-06-21 18:00:00
+0,Screen Relative Humidity,61,%,Humidity,61 %,Wed,21st,Jun,2023-06-21 18:00:00
+0,Precipitation Probability,4,%,Rain ,4 %,Wed,21st,Jun,2023-06-21 18:00:00
+0,Wind Speed,7,mph,Wind Speed ,7 mph,Wed,21st,Jun,2023-06-21 18:00:00
+0,Temperature,21,C, Temp,21°C,Wed,21st,Jun,2023-06-21 18:00:00
+0,Visibility,VG,,Visibility ,VG ,Wed,21st,Jun,2023-06-21 18:00:00
+0,Weather Type,3,,Weather Type ,3 ,Wed,21st,Jun,2023-06-21 18:00:00
+0,Max UV Index,1,,Max UV,1 ,Wed,21st,Jun,2023-06-21 18:00:00
+0,timestamp,2023-06-21 21:00:00,,timestamp ,Wed 21st Jun,Wed,21st,Jun,2023-06-21 21:00:00
+0,Wind Direction,WNW,compass, Wind Direction,WNW,Wed,21st,Jun,2023-06-21 21:00:00
+0,Feels Like Temperature,18,C, Feels ,18°C,Wed,21st,Jun,2023-06-21 21:00:00
+0,Wind Gust,9,mph,Wind Gust,9 mph,Wed,21st,Jun,2023-06-21 21:00:00
+0,Screen Relative Humidity,81,%,Humidity,81 %,Wed,21st,Jun,2023-06-21 21:00:00
+0,Precipitation Probability,1,%,Rain ,1 %,Wed,21st,Jun,2023-06-21 21:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Wed,21st,Jun,2023-06-21 21:00:00
+0,Temperature,17,C, Temp,17°C,Wed,21st,Jun,2023-06-21 21:00:00
+0,Visibility,VG,,Visibility ,VG ,Wed,21st,Jun,2023-06-21 21:00:00
+0,Weather Type,0,,Weather Type ,0 ,Wed,21st,Jun,2023-06-21 21:00:00
+0,Max UV Index,0,,Max UV,0 ,Wed,21st,Jun,2023-06-21 21:00:00
+0,timestamp,2023-06-22 00:00:00,,timestamp ,Thu 22nd Jun,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Wind Direction,NNW,compass, Wind Direction,NNW,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Feels Like Temperature,15,C, Feels ,15°C,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Wind Gust,9,mph,Wind Gust,9 mph,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Screen Relative Humidity,84,%,Humidity,84 %,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Precipitation Probability,1,%,Rain ,1 %,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Temperature,15,C, Temp,15°C,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Visibility,VG,,Visibility ,VG ,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Weather Type,2,,Weather Type ,2 ,Thu,22nd,Jun,2023-06-22 00:00:00
+0,Max UV Index,0,,Max UV,0 ,Thu,22nd,Jun,2023-06-22 00:00:00
+0,timestamp,2023-06-22 03:00:00,,timestamp ,Thu 22nd Jun,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Wind Direction,NW,compass, Wind Direction,NW,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Feels Like Temperature,14,C, Feels ,14°C,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Wind Gust,7,mph,Wind Gust,7 mph,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Screen Relative Humidity,89,%,Humidity,89 %,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Precipitation Probability,0,%,Rain ,0 %,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Wind Speed,2,mph,Wind Speed ,2 mph,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Temperature,14,C, Temp,14°C,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Visibility,GO,,Visibility ,GO ,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Weather Type,2,,Weather Type ,2 ,Thu,22nd,Jun,2023-06-22 03:00:00
+0,Max UV Index,0,,Max UV,0 ,Thu,22nd,Jun,2023-06-22 03:00:00
+0,timestamp,2023-06-22 06:00:00,,timestamp ,Thu 22nd Jun,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Wind Direction,NNW,compass, Wind Direction,NNW,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Feels Like Temperature,16,C, Feels ,16°C,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Wind Gust,7,mph,Wind Gust,7 mph,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Screen Relative Humidity,80,%,Humidity,80 %,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Precipitation Probability,4,%,Rain ,4 %,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Wind Speed,2,mph,Wind Speed ,2 mph,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Temperature,16,C, Temp,16°C,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Visibility,GO,,Visibility ,GO ,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Weather Type,7,,Weather Type ,7 ,Thu,22nd,Jun,2023-06-22 06:00:00
+0,Max UV Index,1,,Max UV,1 ,Thu,22nd,Jun,2023-06-22 06:00:00
+0,timestamp,2023-06-22 09:00:00,,timestamp ,Thu 22nd Jun,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Wind Direction,NE,compass, Wind Direction,NE,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Feels Like Temperature,20,C, Feels ,20°C,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Wind Gust,11,mph,Wind Gust,11 mph,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Screen Relative Humidity,64,%,Humidity,64 %,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Precipitation Probability,8,%,Rain ,8 %,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Temperature,20,C, Temp,20°C,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Visibility,VG,,Visibility ,VG ,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Weather Type,7,,Weather Type ,7 ,Thu,22nd,Jun,2023-06-22 09:00:00
+0,Max UV Index,5,,Max UV,5 ,Thu,22nd,Jun,2023-06-22 09:00:00
+0,timestamp,2023-06-22 12:00:00,,timestamp ,Thu 22nd Jun,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Wind Direction,NNE,compass, Wind Direction,NNE,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Feels Like Temperature,22,C, Feels ,22°C,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Wind Gust,9,mph,Wind Gust,9 mph,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Screen Relative Humidity,55,%,Humidity,55 %,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Precipitation Probability,41,%,Rain ,41 %,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Temperature,22,C, Temp,22°C,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Visibility,VG,,Visibility ,VG ,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Weather Type,10,,Weather Type ,10 ,Thu,22nd,Jun,2023-06-22 12:00:00
+0,Max UV Index,7,,Max UV,7 ,Thu,22nd,Jun,2023-06-22 12:00:00
+0,timestamp,2023-06-22 15:00:00,,timestamp ,Thu 22nd Jun,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Wind Direction,N,compass, Wind Direction,N,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Feels Like Temperature,23,C, Feels ,23°C,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Wind Gust,11,mph,Wind Gust,11 mph,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Screen Relative Humidity,55,%,Humidity,55 %,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Precipitation Probability,45,%,Rain ,45 %,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Temperature,23,C, Temp,23°C,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Visibility,GO,,Visibility ,GO ,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Weather Type,10,,Weather Type ,10 ,Thu,22nd,Jun,2023-06-22 15:00:00
+0,Max UV Index,4,,Max UV,4 ,Thu,22nd,Jun,2023-06-22 15:00:00
+0,timestamp,2023-06-22 18:00:00,,timestamp ,Thu 22nd Jun,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Wind Direction,N,compass, Wind Direction,N,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Feels Like Temperature,22,C, Feels ,22°C,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Wind Gust,11,mph,Wind Gust,11 mph,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Screen Relative Humidity,58,%,Humidity,58 %,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Precipitation Probability,31,%,Rain ,31 %,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Temperature,22,C, Temp,22°C,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Visibility,VG,,Visibility ,VG ,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Weather Type,10,,Weather Type ,10 ,Thu,22nd,Jun,2023-06-22 18:00:00
+0,Max UV Index,1,,Max UV,1 ,Thu,22nd,Jun,2023-06-22 18:00:00
+0,timestamp,2023-06-22 21:00:00,,timestamp ,Thu 22nd Jun,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Wind Direction,N,compass, Wind Direction,N,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Feels Like Temperature,18,C, Feels ,18°C,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Wind Gust,7,mph,Wind Gust,7 mph,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Screen Relative Humidity,80,%,Humidity,80 %,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Precipitation Probability,4,%,Rain ,4 %,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Temperature,17,C, Temp,17°C,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Visibility,VG,,Visibility ,VG ,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Weather Type,0,,Weather Type ,0 ,Thu,22nd,Jun,2023-06-22 21:00:00
+0,Max UV Index,0,,Max UV,0 ,Thu,22nd,Jun,2023-06-22 21:00:00
+0,timestamp,2023-06-23 00:00:00,,timestamp ,Fri 23rd Jun,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Wind Direction,NNW,compass, Wind Direction,NNW,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Feels Like Temperature,15,C, Feels ,15°C,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Wind Gust,9,mph,Wind Gust,9 mph,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Screen Relative Humidity,86,%,Humidity,86 %,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Precipitation Probability,1,%,Rain ,1 %,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Temperature,15,C, Temp,15°C,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Visibility,VG,,Visibility ,VG ,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Weather Type,2,,Weather Type ,2 ,Fri,23rd,Jun,2023-06-23 00:00:00
+0,Max UV Index,0,,Max UV,0 ,Fri,23rd,Jun,2023-06-23 00:00:00
+0,timestamp,2023-06-23 03:00:00,,timestamp ,Fri 23rd Jun,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Wind Direction,W,compass, Wind Direction,W,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Feels Like Temperature,13,C, Feels ,13°C,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Wind Gust,7,mph,Wind Gust,7 mph,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Screen Relative Humidity,93,%,Humidity,93 %,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Precipitation Probability,4,%,Rain ,4 %,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Temperature,13,C, Temp,13°C,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Visibility,GO,,Visibility ,GO ,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Weather Type,7,,Weather Type ,7 ,Fri,23rd,Jun,2023-06-23 03:00:00
+0,Max UV Index,0,,Max UV,0 ,Fri,23rd,Jun,2023-06-23 03:00:00
+0,timestamp,2023-06-23 06:00:00,,timestamp ,Fri 23rd Jun,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Feels Like Temperature,16,C, Feels ,16°C,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Wind Gust,9,mph,Wind Gust,9 mph,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Screen Relative Humidity,87,%,Humidity,87 %,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Precipitation Probability,4,%,Rain ,4 %,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Temperature,16,C, Temp,16°C,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Visibility,VG,,Visibility ,VG ,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Weather Type,7,,Weather Type ,7 ,Fri,23rd,Jun,2023-06-23 06:00:00
+0,Max UV Index,1,,Max UV,1 ,Fri,23rd,Jun,2023-06-23 06:00:00
+0,timestamp,2023-06-23 09:00:00,,timestamp ,Fri 23rd Jun,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Wind Direction,SSW,compass, Wind Direction,SSW,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Feels Like Temperature,19,C, Feels ,19°C,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Wind Gust,13,mph,Wind Gust,13 mph,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Screen Relative Humidity,73,%,Humidity,73 %,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Precipitation Probability,5,%,Rain ,5 %,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Wind Speed,4,mph,Wind Speed ,4 mph,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Temperature,19,C, Temp,19°C,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Visibility,VG,,Visibility ,VG ,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Weather Type,7,,Weather Type ,7 ,Fri,23rd,Jun,2023-06-23 09:00:00
+0,Max UV Index,4,,Max UV,4 ,Fri,23rd,Jun,2023-06-23 09:00:00
+0,timestamp,2023-06-23 12:00:00,,timestamp ,Fri 23rd Jun,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Feels Like Temperature,21,C, Feels ,21°C,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Wind Gust,20,mph,Wind Gust,20 mph,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Screen Relative Humidity,58,%,Humidity,58 %,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Precipitation Probability,6,%,Rain ,6 %,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Temperature,22,C, Temp,22°C,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Visibility,VG,,Visibility ,VG ,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Weather Type,7,,Weather Type ,7 ,Fri,23rd,Jun,2023-06-23 12:00:00
+0,Max UV Index,6,,Max UV,6 ,Fri,23rd,Jun,2023-06-23 12:00:00
+0,timestamp,2023-06-23 15:00:00,,timestamp ,Fri 23rd Jun,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Feels Like Temperature,22,C, Feels ,22°C,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Wind Gust,20,mph,Wind Gust,20 mph,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Screen Relative Humidity,51,%,Humidity,51 %,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Precipitation Probability,6,%,Rain ,6 %,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Temperature,23,C, Temp,23°C,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Visibility,VG,,Visibility ,VG ,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Weather Type,7,,Weather Type ,7 ,Fri,23rd,Jun,2023-06-23 15:00:00
+0,Max UV Index,4,,Max UV,4 ,Fri,23rd,Jun,2023-06-23 15:00:00
+0,timestamp,2023-06-23 18:00:00,,timestamp ,Fri 23rd Jun,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Feels Like Temperature,21,C, Feels ,21°C,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Wind Gust,18,mph,Wind Gust,18 mph,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Screen Relative Humidity,58,%,Humidity,58 %,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Precipitation Probability,4,%,Rain ,4 %,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Temperature,22,C, Temp,22°C,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Visibility,VG,,Visibility ,VG ,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Weather Type,7,,Weather Type ,7 ,Fri,23rd,Jun,2023-06-23 18:00:00
+0,Max UV Index,1,,Max UV,1 ,Fri,23rd,Jun,2023-06-23 18:00:00
+0,timestamp,2023-06-23 21:00:00,,timestamp ,Fri 23rd Jun,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Feels Like Temperature,18,C, Feels ,18°C,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Wind Gust,13,mph,Wind Gust,13 mph,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Screen Relative Humidity,72,%,Humidity,72 %,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Precipitation Probability,1,%,Rain ,1 %,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Wind Speed,7,mph,Wind Speed ,7 mph,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Temperature,18,C, Temp,18°C,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Visibility,VG,,Visibility ,VG ,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Weather Type,0,,Weather Type ,0 ,Fri,23rd,Jun,2023-06-23 21:00:00
+0,Max UV Index,0,,Max UV,0 ,Fri,23rd,Jun,2023-06-23 21:00:00
+0,timestamp,2023-06-24 00:00:00,,timestamp ,Sat 24th Jun,Sat,24th,Jun,2023-06-24 00:00:00
+0,Wind Direction,SW,compass, Wind Direction,SW,Sat,24th,Jun,2023-06-24 00:00:00
+0,Feels Like Temperature,16,C, Feels ,16°C,Sat,24th,Jun,2023-06-24 00:00:00
+0,Wind Gust,11,mph,Wind Gust,11 mph,Sat,24th,Jun,2023-06-24 00:00:00
+0,Screen Relative Humidity,83,%,Humidity,83 %,Sat,24th,Jun,2023-06-24 00:00:00
+0,Precipitation Probability,0,%,Rain ,0 %,Sat,24th,Jun,2023-06-24 00:00:00
+0,Wind Speed,7,mph,Wind Speed ,7 mph,Sat,24th,Jun,2023-06-24 00:00:00
+0,Temperature,16,C, Temp,16°C,Sat,24th,Jun,2023-06-24 00:00:00
+0,Visibility,VG,,Visibility ,VG ,Sat,24th,Jun,2023-06-24 00:00:00
+0,Weather Type,0,,Weather Type ,0 ,Sat,24th,Jun,2023-06-24 00:00:00
+0,Max UV Index,0,,Max UV,0 ,Sat,24th,Jun,2023-06-24 00:00:00
+0,timestamp,2023-06-24 03:00:00,,timestamp ,Sat 24th Jun,Sat,24th,Jun,2023-06-24 03:00:00
+0,Wind Direction,SSW,compass, Wind Direction,SSW,Sat,24th,Jun,2023-06-24 03:00:00
+0,Feels Like Temperature,14,C, Feels ,14°C,Sat,24th,Jun,2023-06-24 03:00:00
+0,Wind Gust,11,mph,Wind Gust,11 mph,Sat,24th,Jun,2023-06-24 03:00:00
+0,Screen Relative Humidity,90,%,Humidity,90 %,Sat,24th,Jun,2023-06-24 03:00:00
+0,Precipitation Probability,1,%,Rain ,1 %,Sat,24th,Jun,2023-06-24 03:00:00
+0,Wind Speed,7,mph,Wind Speed ,7 mph,Sat,24th,Jun,2023-06-24 03:00:00
+0,Temperature,15,C, Temp,15°C,Sat,24th,Jun,2023-06-24 03:00:00
+0,Visibility,VG,,Visibility ,VG ,Sat,24th,Jun,2023-06-24 03:00:00
+0,Weather Type,0,,Weather Type ,0 ,Sat,24th,Jun,2023-06-24 03:00:00
+0,Max UV Index,0,,Max UV,0 ,Sat,24th,Jun,2023-06-24 03:00:00
+0,timestamp,2023-06-24 06:00:00,,timestamp ,Sat 24th Jun,Sat,24th,Jun,2023-06-24 06:00:00
+0,Wind Direction,SSW,compass, Wind Direction,SSW,Sat,24th,Jun,2023-06-24 06:00:00
+0,Feels Like Temperature,17,C, Feels ,17°C,Sat,24th,Jun,2023-06-24 06:00:00
+0,Wind Gust,13,mph,Wind Gust,13 mph,Sat,24th,Jun,2023-06-24 06:00:00
+0,Screen Relative Humidity,85,%,Humidity,85 %,Sat,24th,Jun,2023-06-24 06:00:00
+0,Precipitation Probability,0,%,Rain ,0 %,Sat,24th,Jun,2023-06-24 06:00:00
+0,Wind Speed,7,mph,Wind Speed ,7 mph,Sat,24th,Jun,2023-06-24 06:00:00
+0,Temperature,17,C, Temp,17°C,Sat,24th,Jun,2023-06-24 06:00:00
+0,Visibility,VG,,Visibility ,VG ,Sat,24th,Jun,2023-06-24 06:00:00
+0,Weather Type,1,,Weather Type ,1 ,Sat,24th,Jun,2023-06-24 06:00:00
+0,Max UV Index,1,,Max UV,1 ,Sat,24th,Jun,2023-06-24 06:00:00
+0,timestamp,2023-06-24 09:00:00,,timestamp ,Sat 24th Jun,Sat,24th,Jun,2023-06-24 09:00:00
+0,Wind Direction,SSW,compass, Wind Direction,SSW,Sat,24th,Jun,2023-06-24 09:00:00
+0,Feels Like Temperature,20,C, Feels ,20°C,Sat,24th,Jun,2023-06-24 09:00:00
+0,Wind Gust,18,mph,Wind Gust,18 mph,Sat,24th,Jun,2023-06-24 09:00:00
+0,Screen Relative Humidity,72,%,Humidity,72 %,Sat,24th,Jun,2023-06-24 09:00:00
+0,Precipitation Probability,1,%,Rain ,1 %,Sat,24th,Jun,2023-06-24 09:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Sat,24th,Jun,2023-06-24 09:00:00
+0,Temperature,20,C, Temp,20°C,Sat,24th,Jun,2023-06-24 09:00:00
+0,Visibility,VG,,Visibility ,VG ,Sat,24th,Jun,2023-06-24 09:00:00
+0,Weather Type,3,,Weather Type ,3 ,Sat,24th,Jun,2023-06-24 09:00:00
+0,Max UV Index,5,,Max UV,5 ,Sat,24th,Jun,2023-06-24 09:00:00
+0,timestamp,2023-06-24 12:00:00,,timestamp ,Sat 24th Jun,Sat,24th,Jun,2023-06-24 12:00:00
+0,Wind Direction,SSW,compass, Wind Direction,SSW,Sat,24th,Jun,2023-06-24 12:00:00
+0,Feels Like Temperature,22,C, Feels ,22°C,Sat,24th,Jun,2023-06-24 12:00:00
+0,Wind Gust,22,mph,Wind Gust,22 mph,Sat,24th,Jun,2023-06-24 12:00:00
+0,Screen Relative Humidity,57,%,Humidity,57 %,Sat,24th,Jun,2023-06-24 12:00:00
+0,Precipitation Probability,2,%,Rain ,2 %,Sat,24th,Jun,2023-06-24 12:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Sat,24th,Jun,2023-06-24 12:00:00
+0,Temperature,23,C, Temp,23°C,Sat,24th,Jun,2023-06-24 12:00:00
+0,Visibility,VG,,Visibility ,VG ,Sat,24th,Jun,2023-06-24 12:00:00
+0,Weather Type,3,,Weather Type ,3 ,Sat,24th,Jun,2023-06-24 12:00:00
+0,Max UV Index,7,,Max UV,7 ,Sat,24th,Jun,2023-06-24 12:00:00
+0,timestamp,2023-06-24 15:00:00,,timestamp ,Sat 24th Jun,Sat,24th,Jun,2023-06-24 15:00:00
+0,Wind Direction,SSW,compass, Wind Direction,SSW,Sat,24th,Jun,2023-06-24 15:00:00
+0,Feels Like Temperature,23,C, Feels ,23°C,Sat,24th,Jun,2023-06-24 15:00:00
+0,Wind Gust,22,mph,Wind Gust,22 mph,Sat,24th,Jun,2023-06-24 15:00:00
+0,Screen Relative Humidity,50,%,Humidity,50 %,Sat,24th,Jun,2023-06-24 15:00:00
+0,Precipitation Probability,2,%,Rain ,2 %,Sat,24th,Jun,2023-06-24 15:00:00
+0,Wind Speed,11,mph,Wind Speed ,11 mph,Sat,24th,Jun,2023-06-24 15:00:00
+0,Temperature,25,C, Temp,25°C,Sat,24th,Jun,2023-06-24 15:00:00
+0,Visibility,VG,,Visibility ,VG ,Sat,24th,Jun,2023-06-24 15:00:00
+0,Weather Type,3,,Weather Type ,3 ,Sat,24th,Jun,2023-06-24 15:00:00
+0,Max UV Index,4,,Max UV,4 ,Sat,24th,Jun,2023-06-24 15:00:00
+0,timestamp,2023-06-24 18:00:00,,timestamp ,Sat 24th Jun,Sat,24th,Jun,2023-06-24 18:00:00
+0,Wind Direction,SSW,compass, Wind Direction,SSW,Sat,24th,Jun,2023-06-24 18:00:00
+0,Feels Like Temperature,23,C, Feels ,23°C,Sat,24th,Jun,2023-06-24 18:00:00
+0,Wind Gust,20,mph,Wind Gust,20 mph,Sat,24th,Jun,2023-06-24 18:00:00
+0,Screen Relative Humidity,53,%,Humidity,53 %,Sat,24th,Jun,2023-06-24 18:00:00
+0,Precipitation Probability,1,%,Rain ,1 %,Sat,24th,Jun,2023-06-24 18:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Sat,24th,Jun,2023-06-24 18:00:00
+0,Temperature,24,C, Temp,24°C,Sat,24th,Jun,2023-06-24 18:00:00
+0,Visibility,VG,,Visibility ,VG ,Sat,24th,Jun,2023-06-24 18:00:00
+0,Weather Type,1,,Weather Type ,1 ,Sat,24th,Jun,2023-06-24 18:00:00
+0,Max UV Index,1,,Max UV,1 ,Sat,24th,Jun,2023-06-24 18:00:00
+0,timestamp,2023-06-24 21:00:00,,timestamp ,Sat 24th Jun,Sat,24th,Jun,2023-06-24 21:00:00
+0,Wind Direction,S,compass, Wind Direction,S,Sat,24th,Jun,2023-06-24 21:00:00
+0,Feels Like Temperature,19,C, Feels ,19°C,Sat,24th,Jun,2023-06-24 21:00:00
+0,Wind Gust,16,mph,Wind Gust,16 mph,Sat,24th,Jun,2023-06-24 21:00:00
+0,Screen Relative Humidity,66,%,Humidity,66 %,Sat,24th,Jun,2023-06-24 21:00:00
+0,Precipitation Probability,0,%,Rain ,0 %,Sat,24th,Jun,2023-06-24 21:00:00
+0,Wind Speed,9,mph,Wind Speed ,9 mph,Sat,24th,Jun,2023-06-24 21:00:00
+0,Temperature,20,C, Temp,20°C,Sat,24th,Jun,2023-06-24 21:00:00
+0,Visibility,VG,,Visibility ,VG ,Sat,24th,Jun,2023-06-24 21:00:00
+0,Weather Type,0,,Weather Type ,0 ,Sat,24th,Jun,2023-06-24 21:00:00
+0,Max UV Index,0,,Max UV,0 ,Sat,24th,Jun,2023-06-24 21:00:00

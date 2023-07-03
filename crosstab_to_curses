@@ -1,0 +1,62 @@
+write a python function that uses curses to write a pandas crosstab to the screen with a custom gap between items in the crosstab. There should be an option to align the headings and values of the crosstab to be left, middle or right
+Sure! Here's an example of a Python function that uses curses to display a pandas crosstab with a custom gap between items:
+
+```python
+import curses
+import pandas as pd
+
+def display_crosstab_with_gap(crosstab, gap=2, align='left'):
+    # Initialize curses
+    stdscr = curses.initscr()
+    curses.start_color()
+    curses.use_default_colors()
+
+    # Set alignment
+    if align == 'left':
+        align_flag = curses.A_LEFT
+    elif align == 'middle':
+        align_flag = curses.A_CENTER
+    elif align == 'right':
+        align_flag = curses.A_RIGHT
+    else:
+        raise ValueError("Invalid alignment option. Please choose 'left', 'middle', or 'right'.")
+
+    # Get the dimensions of the crosstab
+    num_rows, num_cols = crosstab.shape
+
+    # Calculate the width of each column
+    col_widths = [max(len(str(value)) for value in crosstab[col]) for col in crosstab.columns]
+
+    # Calculate the total width of the crosstab
+    total_width = sum(col_widths) + (num_cols - 1) * gap
+
+    # Set up the curses window
+    curses.curs_set(0)
+    stdscr.clear()
+    stdscr.refresh()
+    window = curses.newwin(num_rows + 2, total_width, 0, 0)
+
+    # Print the column headings
+    for i, col in enumerate(crosstab.columns):
+        window.addstr(0, sum(col_widths[:i]) + i * gap, str(col), align_flag)
+
+    # Print the row values
+    for i, row in enumerate(crosstab.itertuples(index=False)):
+        for j, value in enumerate(row):
+            window.addstr(i + 1, sum(col_widths[:j]) + j * gap, str(value), align_flag)
+
+    # Refresh the window and wait for user input
+    window.refresh()
+    window.getch()
+
+    # Clean up curses
+    curses.endwin()
+
+# Example usage
+data = {'A': [1, 2, 3], 'B': [4, 5, 6], 'C': [7, 8, 9]}
+df = pd.DataFrame(data)
+crosstab = pd.crosstab(df['A'], df['B'])
+display_crosstab_with_gap(crosstab, gap=3, align='middle')
+```
+
+This function takes a pandas crosstab as input and displays it using curses. The `gap` parameter specifies the number of spaces between items in the crosstab, and the `align` parameter determines the alignment of the headings and values (either 'left', 'middle', or 'right'). You can customize the crosstab data and the gap/alignment options according to your needs.

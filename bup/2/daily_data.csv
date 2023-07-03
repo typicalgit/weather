@@ -1,0 +1,106 @@
+day_nr,item_name,value,unit,pretty_item_name,pretty_val,day_name,dom,month
+0,timestamp,2023-06-09 00:00:00,Day,timestamp,Fri 9th Jun,Fri,9th,Jun
+0,Wind Direction,ENE,compass,Wind Direction,ENE,Fri,9th,Jun
+0,Wind Gust Noon,22,mph,Wind Gust,22 mph,Fri,9th,Jun
+0,Screen Relative Humidity Noon,56,%,Humidity,56 %,Fri,9th,Jun
+0,Precipitation Probability Day,1,%,Rain,1 %,Fri,9th,Jun
+0,Wind Speed,16,mph,Wind,16 mph,Fri,9th,Jun
+0,Visibility,GO,,Visibility,GO ,Fri,9th,Jun
+0,Day Maximum Temperature,22,C,Temp,22°C,Fri,9th,Jun
+0,Feels Like Day Maximum Temperature,19,C,Feels,19°C,Fri,9th,Jun
+0,Weather Type,1,,Weather Type,1 ,Fri,9th,Jun
+0,Max UV Index,8,,Max UV,8 ,Fri,9th,Jun
+0,timestamp,2023-06-09 00:00:00,Night,timestamp,Fri 9th Jun,Fri,9th,Jun
+0,Wind Direction,ENE,compass,Wind Direction,ENE,Fri,9th,Jun
+0,Wind Gust Midnight,20,mph, Wind Gust,20 mph,Fri,9th,Jun
+0,Screen Relative Humidity Midnight,87,%, Humidity,87 %,Fri,9th,Jun
+0,Precipitation Probability Night,2,%, Rain,2 %,Fri,9th,Jun
+0,Wind Speed,9,mph,Wind,9 mph,Fri,9th,Jun
+0,Visibility,GO,,Visibility,GO ,Fri,9th,Jun
+0,Night Minimum Temperature,11,C, Min Temp,11°C,Fri,9th,Jun
+0,Feels Like Night Minimum Temperature,9,C, Feels Min,9°C,Fri,9th,Jun
+0,Weather Type,0,,Weather Type,0 ,Fri,9th,Jun
+0,timestamp,2023-06-10 00:00:00,Day,timestamp,Sat 10th Jun,Sat,10th,Jun
+0,Wind Direction,E,compass,Wind Direction,E,Sat,10th,Jun
+0,Wind Gust Noon,25,mph,Wind Gust,25 mph,Sat,10th,Jun
+0,Screen Relative Humidity Noon,51,%,Humidity,51 %,Sat,10th,Jun
+0,Precipitation Probability Day,13,%,Rain,13 %,Sat,10th,Jun
+0,Wind Speed,13,mph,Wind,13 mph,Sat,10th,Jun
+0,Visibility,VG,,Visibility,VG ,Sat,10th,Jun
+0,Day Maximum Temperature,29,C,Temp,29°C,Sat,10th,Jun
+0,Feels Like Day Maximum Temperature,25,C,Feels,25°C,Sat,10th,Jun
+0,Weather Type,3,,Weather Type,3 ,Sat,10th,Jun
+0,Max UV Index,8,,Max UV,8 ,Sat,10th,Jun
+0,timestamp,2023-06-10 00:00:00,Night,timestamp,Sat 10th Jun,Sat,10th,Jun
+0,Wind Direction,E,compass,Wind Direction,E,Sat,10th,Jun
+0,Wind Gust Midnight,18,mph, Wind Gust,18 mph,Sat,10th,Jun
+0,Screen Relative Humidity Midnight,72,%, Humidity,72 %,Sat,10th,Jun
+0,Precipitation Probability Night,7,%, Rain,7 %,Sat,10th,Jun
+0,Wind Speed,9,mph,Wind,9 mph,Sat,10th,Jun
+0,Visibility,VG,,Visibility,VG ,Sat,10th,Jun
+0,Night Minimum Temperature,16,C, Min Temp,16°C,Sat,10th,Jun
+0,Feels Like Night Minimum Temperature,15,C, Feels Min,15°C,Sat,10th,Jun
+0,Weather Type,7,,Weather Type,7 ,Sat,10th,Jun
+0,timestamp,2023-06-11 00:00:00,Day,timestamp,Sun 11th Jun,Sun,11th,Jun
+0,Wind Direction,E,compass,Wind Direction,E,Sun,11th,Jun
+0,Wind Gust Noon,13,mph,Wind Gust,13 mph,Sun,11th,Jun
+0,Screen Relative Humidity Noon,59,%,Humidity,59 %,Sun,11th,Jun
+0,Precipitation Probability Day,51,%,Rain,51 %,Sun,11th,Jun
+0,Wind Speed,4,mph,Wind,4 mph,Sun,11th,Jun
+0,Visibility,VG,,Visibility,VG ,Sun,11th,Jun
+0,Day Maximum Temperature,26,C,Temp,26°C,Sun,11th,Jun
+0,Feels Like Day Maximum Temperature,25,C,Feels,25°C,Sun,11th,Jun
+0,Weather Type,10,,Weather Type,10 ,Sun,11th,Jun
+0,Max UV Index,7,,Max UV,7 ,Sun,11th,Jun
+0,timestamp,2023-06-11 00:00:00,Night,timestamp,Sun 11th Jun,Sun,11th,Jun
+0,Wind Direction,NE,compass,Wind Direction,NE,Sun,11th,Jun
+0,Wind Gust Midnight,9,mph, Wind Gust,9 mph,Sun,11th,Jun
+0,Screen Relative Humidity Midnight,87,%, Humidity,87 %,Sun,11th,Jun
+0,Precipitation Probability Night,4,%, Rain,4 %,Sun,11th,Jun
+0,Wind Speed,4,mph,Wind,4 mph,Sun,11th,Jun
+0,Visibility,VG,,Visibility,VG ,Sun,11th,Jun
+0,Night Minimum Temperature,16,C, Min Temp,16°C,Sun,11th,Jun
+0,Feels Like Night Minimum Temperature,16,C, Feels Min,16°C,Sun,11th,Jun
+0,Weather Type,2,,Weather Type,2 ,Sun,11th,Jun
+0,timestamp,2023-06-12 00:00:00,Day,timestamp,Mon 12th Jun,Mon,12th,Jun
+0,Wind Direction,E,compass,Wind Direction,E,Mon,12th,Jun
+0,Wind Gust Noon,18,mph,Wind Gust,18 mph,Mon,12th,Jun
+0,Screen Relative Humidity Noon,56,%,Humidity,56 %,Mon,12th,Jun
+0,Precipitation Probability Day,30,%,Rain,30 %,Mon,12th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Mon,12th,Jun
+0,Visibility,VG,,Visibility,VG ,Mon,12th,Jun
+0,Day Maximum Temperature,27,C,Temp,27°C,Mon,12th,Jun
+0,Feels Like Day Maximum Temperature,25,C,Feels,25°C,Mon,12th,Jun
+0,Weather Type,3,,Weather Type,3 ,Mon,12th,Jun
+0,Max UV Index,7,,Max UV,7 ,Mon,12th,Jun
+0,timestamp,2023-06-12 00:00:00,Night,timestamp,Mon 12th Jun,Mon,12th,Jun
+0,Wind Direction,ENE,compass,Wind Direction,ENE,Mon,12th,Jun
+0,Wind Gust Midnight,13,mph, Wind Gust,13 mph,Mon,12th,Jun
+0,Screen Relative Humidity Midnight,77,%, Humidity,77 %,Mon,12th,Jun
+0,Precipitation Probability Night,2,%, Rain,2 %,Mon,12th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Mon,12th,Jun
+0,Visibility,VG,,Visibility,VG ,Mon,12th,Jun
+0,Night Minimum Temperature,14,C, Min Temp,14°C,Mon,12th,Jun
+0,Feels Like Night Minimum Temperature,14,C, Feels Min,14°C,Mon,12th,Jun
+0,Weather Type,0,,Weather Type,0 ,Mon,12th,Jun
+0,timestamp,2023-06-13 00:00:00,Day,timestamp,Tue 13th Jun,Tue,13th,Jun
+0,Wind Direction,E,compass,Wind Direction,E,Tue,13th,Jun
+0,Wind Gust Noon,22,mph,Wind Gust,22 mph,Tue,13th,Jun
+0,Screen Relative Humidity Noon,46,%,Humidity,46 %,Tue,13th,Jun
+0,Precipitation Probability Day,3,%,Rain,3 %,Tue,13th,Jun
+0,Wind Speed,9,mph,Wind,9 mph,Tue,13th,Jun
+0,Visibility,VG,,Visibility,VG ,Tue,13th,Jun
+0,Day Maximum Temperature,26,C,Temp,26°C,Tue,13th,Jun
+0,Feels Like Day Maximum Temperature,24,C,Feels,24°C,Tue,13th,Jun
+0,Weather Type,1,,Weather Type,1 ,Tue,13th,Jun
+0,Max UV Index,8,,Max UV,8 ,Tue,13th,Jun
+0,timestamp,2023-06-13 00:00:00,Night,timestamp,Tue 13th Jun,Tue,13th,Jun
+0,Wind Direction,ENE,compass,Wind Direction,ENE,Tue,13th,Jun
+0,Wind Gust Midnight,13,mph, Wind Gust,13 mph,Tue,13th,Jun
+0,Screen Relative Humidity Midnight,71,%, Humidity,71 %,Tue,13th,Jun
+0,Precipitation Probability Night,1,%, Rain,1 %,Tue,13th,Jun
+0,Wind Speed,7,mph,Wind,7 mph,Tue,13th,Jun
+0,Visibility,VG,,Visibility,VG ,Tue,13th,Jun
+0,Night Minimum Temperature,12,C, Min Temp,12°C,Tue,13th,Jun
+0,Feels Like Night Minimum Temperature,11,C, Feels Min,11°C,Tue,13th,Jun
+0,Weather Type,0,,Weather Type,0 ,Tue,13th,Jun

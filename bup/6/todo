@@ -1,0 +1,14 @@
+#
+check data structure of three hour forecasts, see if each dictionary item in the data contains multiple timestamp values
+if so, change prepData function. loop dates?
+check pivot table code. Do you really need an index?
+c
+ould this just be:
+ cols       
+timestamp
+  pretty val
+  unit
+  etc
+
+ rows
+pretty_item_name
