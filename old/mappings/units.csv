@@ -1,0 +1,11 @@
+timestamp,None
+Wind Direction,None
+Feels Like Temperature,'°C'
+Wind Gust,20;mph;G
+Screen Relative Humidity,83;%;H
+Precipitation Probability,94;%;Pp
+Wind Speed,9;mph;S
+Temperature,17;C;T
+Visibility,GO;;V
+Weather Type,12;;W
+Max UV Index,4;;U

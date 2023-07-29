@@ -20,36 +20,30 @@ def requestDat(lat=52.78263,long=-2.08490,fcast_type="th"):
 
 def show_value_types(dataframe):
   for column in dataframe.columns:
-    print(column)
-    for i,value in enumerate(dataframe[column]):
-      if i > 0:
-        continue
+    for value in dataframe[column]:
+      print(column)
       print(type(value))
       print(value)
 
-def replace_tuples(df):
+def transform_df(df):
   for column in df.columns:
-    if df[column].dtype == 'object':
-      if column == 'timestamp':
-        df['daynight'] = df[column].apply(lambda x: x[1] if isinstance(x, tuple) and len(x) > 1 else None)
-        df['datetime'] = df[column].apply(lambda x: x[0] if isinstance(x, tuple) else None)
+    if column == 'timestamp':
       df[column] = df[column].apply(lambda x: x[0] if isinstance(x, tuple) else x)
-
-  df.set_index('timestamp', inplace=True)
-  return df 
-
+      df['daynight'] = df[column].apply(lambda x: x[1] if isinstance(x, tuple) else None)
+    else:
+      df[column] = df[column].apply(lambda x: x[0] if isinstance(x, tuple) else x)
+  return df
 
 def prep_data(data):
   df = pd.DataFrame(data)
-  value_df = replace_tuples(df)
+  value_df = df.applymap(lambda x: x[0] if isinstance(x, tuple) else x)
   show_value_types(value_df)
-# USEFUL FOR CREATING MAP OF COL HEAD TO UNITS
-#  unit_df = df.applymap(lambda x: x[1] if isinstance(x, tuple) else x)
+  unit_df = df.applymap(lambda x: x[1] if isinstance(x, tuple) else x)
 
 #  df = df.applymap(lambda x: ';'.join(map(str, x)))
 
 
-  ##filtered_df = value_df.filter(like='imestamp')
+  ##filtered_df = ue_df.filter(like='imestamp')
   ##print(filtered_df)
   return value_df
 

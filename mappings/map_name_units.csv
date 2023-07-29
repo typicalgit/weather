@@ -1,0 +1,20 @@
+Day Maximum Temperature,Temp,°C
+Feels Like Day Maximum Temperature,Feels,°C
+Feels Like Night Minimum Temperature,Feels Min,°C
+Feels Like Temperature,Feels,°C
+Max UV Index,Max UV,None
+Night Minimum Temperature,Min Temp,°C
+Precipitation Probability Day,Rain,%
+Precipitation Probability Night,Rain,%
+Precipitation Probability,Rain,%
+Screen Relative Humidity Midnight,Humidity,%
+Screen Relative Humidity Noon,Humidity,%
+Screen Relative Humidity,Humidity,%
+Temperature,Temp,°C
+Visibility,Visibility,None
+Weather Type,Weather Type,None
+Wind Direction,Wind Direction,None
+Wind Gust Midnight,Wind Gust,None
+Wind Gust,Wind Gust,mph
+Wind Speed,Wind,mph
+timestamp,timestamp,None

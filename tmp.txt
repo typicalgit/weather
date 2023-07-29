@@ -1,0 +1,480 @@
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-17 00:00:00
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-17 00:00:00
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-18 00:00:00
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-18 00:00:00
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-19 00:00:00
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-19 00:00:00
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-20 00:00:00
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-20 00:00:00
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-21 00:00:00
+timestamp
+<class 'pandas._libs.tslibs.timestamps.Timestamp'>
+2023-07-21 00:00:00
+Wind Direction
+<class 'str'>
+WSW
+Wind Direction
+<class 'str'>
+SW
+Wind Direction
+<class 'str'>
+S
+Wind Direction
+<class 'str'>
+SW
+Wind Direction
+<class 'str'>
+NW
+Wind Direction
+<class 'str'>
+WNW
+Wind Direction
+<class 'str'>
+WNW
+Wind Direction
+<class 'str'>
+WNW
+Wind Direction
+<class 'str'>
+WNW
+Wind Direction
+<class 'str'>
+W
+Wind Gust Noon
+<class 'float'>
+16.0
+Wind Gust Noon
+<class 'float'>
+nan
+Wind Gust Noon
+<class 'float'>
+13.0
+Wind Gust Noon
+<class 'float'>
+nan
+Wind Gust Noon
+<class 'float'>
+25.0
+Wind Gust Noon
+<class 'float'>
+nan
+Wind Gust Noon
+<class 'float'>
+16.0
+Wind Gust Noon
+<class 'float'>
+nan
+Wind Gust Noon
+<class 'float'>
+18.0
+Wind Gust Noon
+<class 'float'>
+nan
+Screen Relative Humidity Noon
+<class 'float'>
+57.0
+Screen Relative Humidity Noon
+<class 'float'>
+nan
+Screen Relative Humidity Noon
+<class 'float'>
+75.0
+Screen Relative Humidity Noon
+<class 'float'>
+nan
+Screen Relative Humidity Noon
+<class 'float'>
+68.0
+Screen Relative Humidity Noon
+<class 'float'>
+nan
+Screen Relative Humidity Noon
+<class 'float'>
+63.0
+Screen Relative Humidity Noon
+<class 'float'>
+nan
+Screen Relative Humidity Noon
+<class 'float'>
+63.0
+Screen Relative Humidity Noon
+<class 'float'>
+nan
+Precipitation Probability Day
+<class 'float'>
+16.0
+Precipitation Probability Day
+<class 'float'>
+nan
+Precipitation Probability Day
+<class 'float'>
+85.0
+Precipitation Probability Day
+<class 'float'>
+nan
+Precipitation Probability Day
+<class 'float'>
+31.0
+Precipitation Probability Day
+<class 'float'>
+nan
+Precipitation Probability Day
+<class 'float'>
+34.0
+Precipitation Probability Day
+<class 'float'>
+nan
+Precipitation Probability Day
+<class 'float'>
+17.0
+Precipitation Probability Day
+<class 'float'>
+nan
+Wind Speed
+<class 'int'>
+9
+Wind Speed
+<class 'int'>
+4
+Wind Speed
+<class 'int'>
+7
+Wind Speed
+<class 'int'>
+7
+Wind Speed
+<class 'int'>
+13
+Wind Speed
+<class 'int'>
+4
+Wind Speed
+<class 'int'>
+7
+Wind Speed
+<class 'int'>
+7
+Wind Speed
+<class 'int'>
+9
+Wind Speed
+<class 'int'>
+4
+Visibility
+<class 'str'>
+VG
+Visibility
+<class 'str'>
+VG
+Visibility
+<class 'str'>
+GO
+Visibility
+<class 'str'>
+VG
+Visibility
+<class 'str'>
+VG
+Visibility
+<class 'str'>
+VG
+Visibility
+<class 'str'>
+VG
+Visibility
+<class 'str'>
+VG
+Visibility
+<class 'str'>
+VG
+Visibility
+<class 'str'>
+GO
+Day Maximum Temperature
+<class 'float'>
+20.0
+Day Maximum Temperature
+<class 'float'>
+nan
+Day Maximum Temperature
+<class 'float'>
+17.0
+Day Maximum Temperature
+<class 'float'>
+nan
+Day Maximum Temperature
+<class 'float'>
+19.0
+Day Maximum Temperature
+<class 'float'>
+nan
+Day Maximum Temperature
+<class 'float'>
+18.0
+Day Maximum Temperature
+<class 'float'>
+nan
+Day Maximum Temperature
+<class 'float'>
+18.0
+Day Maximum Temperature
+<class 'float'>
+nan
+Feels Like Day Maximum Temperature
+<class 'float'>
+17.0
+Feels Like Day Maximum Temperature
+<class 'float'>
+nan
+Feels Like Day Maximum Temperature
+<class 'float'>
+15.0
+Feels Like Day Maximum Temperature
+<class 'float'>
+nan
+Feels Like Day Maximum Temperature
+<class 'float'>
+16.0
+Feels Like Day Maximum Temperature
+<class 'float'>
+nan
+Feels Like Day Maximum Temperature
+<class 'float'>
+16.0
+Feels Like Day Maximum Temperature
+<class 'float'>
+nan
+Feels Like Day Maximum Temperature
+<class 'float'>
+16.0
+Feels Like Day Maximum Temperature
+<class 'float'>
+nan
+Weather Type
+<class 'int'>
+3
+Weather Type
+<class 'int'>
+7
+Weather Type
+<class 'int'>
+12
+Weather Type
+<class 'int'>
+12
+Weather Type
+<class 'int'>
+3
+Weather Type
+<class 'int'>
+0
+Weather Type
+<class 'int'>
+10
+Weather Type
+<class 'int'>
+0
+Weather Type
+<class 'int'>
+7
+Weather Type
+<class 'int'>
+7
+Max UV Index
+<class 'float'>
+6.0
+Max UV Index
+<class 'float'>
+nan
+Max UV Index
+<class 'float'>
+4.0
+Max UV Index
+<class 'float'>
+nan
+Max UV Index
+<class 'float'>
+7.0
+Max UV Index
+<class 'float'>
+nan
+Max UV Index
+<class 'float'>
+6.0
+Max UV Index
+<class 'float'>
+nan
+Max UV Index
+<class 'float'>
+5.0
+Max UV Index
+<class 'float'>
+nan
+Wind Gust Midnight
+<class 'float'>
+nan
+Wind Gust Midnight
+<class 'float'>
+11.0
+Wind Gust Midnight
+<class 'float'>
+nan
+Wind Gust Midnight
+<class 'float'>
+16.0
+Wind Gust Midnight
+<class 'float'>
+nan
+Wind Gust Midnight
+<class 'float'>
+11.0
+Wind Gust Midnight
+<class 'float'>
+nan
+Wind Gust Midnight
+<class 'float'>
+11.0
+Wind Gust Midnight
+<class 'float'>
+nan
+Wind Gust Midnight
+<class 'float'>
+11.0
+Screen Relative Humidity Midnight
+<class 'float'>
+nan
+Screen Relative Humidity Midnight
+<class 'float'>
+85.0
+Screen Relative Humidity Midnight
+<class 'float'>
+nan
+Screen Relative Humidity Midnight
+<class 'float'>
+93.0
+Screen Relative Humidity Midnight
+<class 'float'>
+nan
+Screen Relative Humidity Midnight
+<class 'float'>
+89.0
+Screen Relative Humidity Midnight
+<class 'float'>
+nan
+Screen Relative Humidity Midnight
+<class 'float'>
+88.0
+Screen Relative Humidity Midnight
+<class 'float'>
+nan
+Screen Relative Humidity Midnight
+<class 'float'>
+85.0
+Precipitation Probability Night
+<class 'float'>
+nan
+Precipitation Probability Night
+<class 'float'>
+5.0
+Precipitation Probability Night
+<class 'float'>
+nan
+Precipitation Probability Night
+<class 'float'>
+69.0
+Precipitation Probability Night
+<class 'float'>
+nan
+Precipitation Probability Night
+<class 'float'>
+0.0
+Precipitation Probability Night
+<class 'float'>
+nan
+Precipitation Probability Night
+<class 'float'>
+2.0
+Precipitation Probability Night
+<class 'float'>
+nan
+Precipitation Probability Night
+<class 'float'>
+8.0
+Night Minimum Temperature
+<class 'float'>
+nan
+Night Minimum Temperature
+<class 'float'>
+12.0
+Night Minimum Temperature
+<class 'float'>
+nan
+Night Minimum Temperature
+<class 'float'>
+13.0
+Night Minimum Temperature
+<class 'float'>
+nan
+Night Minimum Temperature
+<class 'float'>
+10.0
+Night Minimum Temperature
+<class 'float'>
+nan
+Night Minimum Temperature
+<class 'float'>
+10.0
+Night Minimum Temperature
+<class 'float'>
+nan
+Night Minimum Temperature
+<class 'float'>
+11.0
+Feels Like Night Minimum Temperature
+<class 'float'>
+nan
+Feels Like Night Minimum Temperature
+<class 'float'>
+12.0
+Feels Like Night Minimum Temperature
+<class 'float'>
+nan
+Feels Like Night Minimum Temperature
+<class 'float'>
+12.0
+Feels Like Night Minimum Temperature
+<class 'float'>
+nan
+Feels Like Night Minimum Temperature
+<class 'float'>
+9.0
+Feels Like Night Minimum Temperature
+<class 'float'>
+nan
+Feels Like Night Minimum Temperature
+<class 'float'>
+9.0
+Feels Like Night Minimum Temperature
+<class 'float'>
+nan
+Feels Like Night Minimum Temperature
+<class 'float'>
+10.0
