@@ -1,0 +1,6 @@
+Wind Direction,Wind Gust Noon,Screen Relative Humidity Noon,Precipitation Probability Day,Wind Speed,Visibility,Day Maximum Temperature,Feels Like Day Maximum Temperature,Weather Type,Max UV Index,Wind Gust Midnight,Screen Relative Humidity Midnight,Precipitation Probability Night,Night Minimum Temperature,Feels Like Night Minimum Temperature,daynight,datetime
+SSW,,,,9,VG,,,0,,20.0,82.0,3.0,14.0,13.0,Night,2023-08-11
+SW,,,,9,VG,,,2,,20.0,83.0,4.0,14.0,13.0,Night,2023-08-12
+SSW,,,,7,VG,,,7,,13.0,84.0,23.0,14.0,13.0,Night,2023-08-13
+WSW,,,,7,VG,,,0,,11.0,93.0,7.0,13.0,12.0,Night,2023-08-14
+NW,,,,4,VG,,,0,,7.0,93.0,2.0,12.0,12.0,Night,2023-08-15

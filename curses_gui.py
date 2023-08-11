@@ -1,16 +1,7 @@
 #!/bin/python3
 import sys
-import signal
+import signal_handler as sh
 import curses
-
-def signal_handler(sig, frame):
-  print('Exiting gracefully...')
-  sys.exit(0)
-
-signal.signal(signal.SIGINT, signal_handler)
-
-def quitter():
-  sys.exit(0)
 
 def draw_list(win,list,start_x,start_y,gap_x=0,gap_y=0,add_max_item_len_to_gap_y=False):
   pos = 0
@@ -68,7 +59,7 @@ def draw_menu(stdscr):
 def change_menu(stdscr):
   key = stdscr.getch()
   if key == ord('q'):
-    quitter()
+    sh.quitter()
   if key == ord('d'):
     draw_days(stdscr,'')
   if key == ord('w'):
@@ -103,5 +94,6 @@ def main(stdscr):
   stdscr.clear()
   draw_menu(stdscr)
 
-if __name__ == "__main__":
+def start_curses():
   curses.wrapper(main)
+

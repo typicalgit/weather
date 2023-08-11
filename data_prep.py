@@ -5,6 +5,9 @@ import pandas as pd
 import log_utils as log
 import datetime
 import pprint
+import data_requests as req
+import io_utils as io
+
 
 deg_symbol = "°"
 
@@ -48,20 +51,6 @@ def dayOfMonthSuffix(dom):
     suffix = "th"
   return suffix
 
-def request_data(lat=52.78263,long=-2.08490,fcast_type="day"):
-  api_key = '60a57704-db3a-4e39-b216-4d5f8beec50d'
-  M = metoffer.MetOffer(api_key)
-  if fcast_type == "day":
-    fcast_obj = M.nearest_loc_forecast(lat, long, metoffer.DAILY)
-  if fcast_type == "th":
-    fcast_obj = M.nearest_loc_forecast(lat, long, metoffer.THREE_HOURLY)
-
-  data = metoffer.Weather(fcast_obj).data
-  log.logger.info(pprint.pformat(data))
-
-  return data
-
-
 
 ### DATAFRAMES
 def show_value_types(dataframe):
@@ -99,8 +88,30 @@ def prep_data(data):
   ##print(filtered_df)
   return value_df
 
-raw_data = request_data(fcast_type='day')
+raw_data = req.request_data(fcast_type='day')
 final_data = prep_data(raw_data)
 
 #substring = 'irection'
 #filtered_df = final_data.filter(like=substring)
+
+
+def get_data(lat,long):
+
+  raw_daily_data = req.request_data(lat,long,"day")
+  raw_th_data = req.request_data(lat,long,"th")
+
+  th_df = prep_data(raw_th_data)
+  daily_df = prep_data(raw_daily_data)
+  day_df = daily_df[daily_df['daynight'] == 'Day']
+  night_df = daily_df[daily_df['daynight'] == 'Night']
+
+## WRITE DATA AS READABLE FORMAT
+## NOTE THS IS NOT USED BY THE PROJECT, ONLY FOR TESTING
+  day_df.to_csv('data/day_data.csv',index=False)
+  night_df.to_csv('data/night_data.csv',index=False)
+  th_df.to_csv('data/th_data.csv',index=False)
+
+## WRITE OUT DATA AS PICKLE FILES
+  io.write_pickle(day_df,'day_data')
+  io.write_pickle(night_df,'night_data')
+  io.write_pickle(th_df,'th_data')
