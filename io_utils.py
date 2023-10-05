@@ -1,7 +1,26 @@
 import pickle
 import os
+import os
+
+def create_dir(path=None):
+  if not path:
+    # Get the current directory
+    # Define the path for the data directory
+    current_dir = os.getcwd()
+    data_dir = os.path.join(current_dir, 'data')
+  else:
+    data_dir = path
+ 
+  # Check if the data directory exists
+  if not os.path.exists(data_dir):
+    # Create the data directory if it doesn't exist
+    os.makedirs(data_dir)
+    print("Directory created successfully!")
+  else:
+    print("Directory already exists!")
 
 def write_pickle(obj, filename=None):
+  create_dir()
   if not filename:
     try:
       obj_name = obj.__name__

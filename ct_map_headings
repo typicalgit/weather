@@ -1,0 +1,11 @@
+def map_row_headings(data, mapping):
+  # Create a pandas DataFrame from the data
+  df = pd.DataFrame(data)
+  
+  # Map the row headings using the dictionary
+  df.index = df.index.map(mapping.get)
+  
+  # Create a crosstab using the mapped row headings
+  crosstab = pd.crosstab(index=df.index, columns=df.columns)
+  
+  return crosstab

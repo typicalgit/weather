@@ -13,6 +13,8 @@ def main():
   dp.get_data(lat,long)
   gui.start_curses()
 
+  ## CALL QUITTER TO EXIT TO REMOVE TEMP FILES
+  sh.quitter()
 
 
 main()

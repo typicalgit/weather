@@ -1,0 +1,23 @@
+Sure! Here's a Python function that creates a crosstab from a pandas dataframe:
+
+```python
+import pandas as pd
+
+def create_crosstab(df):
+    crosstab = pd.crosstab(index=[df['day temperature'], df['rain']], columns=df['timestamp'])
+    return crosstab
+```
+
+To use this function, pass your pandas dataframe as an argument. The crosstab will have values from the 'timestamp' column as its column headings, and the rows will be values from the 'day temperature' and 'rain' columns.
+
+If you also want a separate function to map all row headings in a crosstab using a dictionary, you can use the following function:
+
+```python
+def map_row_headings(crosstab, mapping_dict):
+    crosstab.index = crosstab.index.map(mapping_dict)
+    return crosstab
+```
+
+In this function, `crosstab` is the crosstab dataframe, and `mapping_dict` is the dictionary that maps the row headings. The function will replace the row headings in the crosstab with the corresponding values from the dictionary.
+
+Hope this helps! Let me know if you have any further questions.
